@@ -1,7 +1,7 @@
-**CURIO: Learn your way, At your pace.** 
+**AMICA: Learn your way, At your pace.** 
 
 
-We  propose  **“Curio”**,  an  innovative  AI-Powered  application  utilizing  **Large Language  Models(LLM)**  like  **Gemini  Pro**  to  reshape  personalized  E-learning. Integra ng advanced **Natural Language Processing (NLP)** harnessing the power of **Langchain** framework, Curio dynamically and seman cally searches through the educa onal content of the students and answers promptly. As an adaptive applica on, Curio answers as per student’s individual details and personalizes itself as per students learning capabili es.  By tapping into **Gemini Pro's API**, it generates real- me, curriculum-aligned materials that adapt to each student's interests, and preferred learning styles. In addition to these,Curio implements **Reinforcement  Learning  with  Human  Feedback  (RLHF),**  enhancing  learning outcomes by itera vely refining content based on user input for the feedback using a **Reward Model** and **Proximal Policy Optimization (PPO)** . With a user- friendly  interface  and  scalable  architecture,  Curio  promises  to  revolu onize educa onal experiences, making personalized learning accessible and effec ve for students worldwide. 
+We  propose  **“Amica”**,  an  innovative  AI-Powered  application  utilizing  **Large Language  Models(LLM)**  like  **Gemini  Pro**  to  reshape  personalized  E-learning. Integra ng advanced **Natural Language Processing (NLP)** harnessing the power of **Langchain** framework, Amica dynamically and seman cally searches through the educa onal content of the students and answers promptly. As an adaptive applica on, Amica answers as per student’s individual details and personalizes itself as per students learning capabili es.  By tapping into **Gemini Pro's API**, it generates real- me, curriculum-aligned materials that adapt to each student's interests, and preferred learning styles. In addition to these,Amica implements **Reinforcement  Learning  with  Human  Feedback  (RLHF),**  enhancing  learning outcomes by itera vely refining content based on user input for the feedback using a **Reward Model** and **Proximal Policy Optimization (PPO)** . With a user- friendly  interface  and  scalable  architecture,  Amica promises  to  revolu onize educa onal experiences, making personalized learning accessible and effec ve for students worldwide. 
 
 **Architecture:** 
 
@@ -44,7 +44,7 @@ As men oned in the image above, we u lize extensive finetuning techniques like *
 
 ![](Aspose.Words.ce81b54e-1a07-4ff2-a993-688ff6fbd6a2.007.jpeg)
 
-Project GitHub Link:[ h ps://github.com/AyonSOMADDAR/Curio  ](https://github.com/AyonSOMADDAR/Curio)
+Project GitHub Link:
 
 
-Check out our bot at : <a href="https://curiobot.streamlit.app/">Curio</a>
+Check out our bot at : <a href="https://curiobot.streamlit.app/">Amica</a>
